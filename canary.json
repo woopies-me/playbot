@@ -1,9 +1,9 @@
 MANUFACTURER=Google
-MODEL=Pixel 9 Pro Fold
-FINGERPRINT=google/comet_beta/comet:CANARY/ZP11.251121.010/14518957:user/release-keys
+MODEL=Pixel 6
+FINGERPRINT=google/oriole_beta/oriole:CANARY/ZP11.251121.010/14518957:user/release-keys
 BRAND=google
-PRODUCT=comet_beta
-DEVICE=comet
+PRODUCT=oriole_beta
+DEVICE=oriole
 RELEASE=CANARY
 ID=ZP11.251121.010
 INCREMENTAL=14518957
