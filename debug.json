@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="t.me/keybox_xml">
 <Key algorithm="ecdsa"><PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
 MHcCAQEEIHNLxIj26sijqF5OhsRDcbGmfki6nKRoYHw+qkr+1uWjoAoGCCqGSM49
