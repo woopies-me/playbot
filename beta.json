@@ -4,7 +4,7 @@
     "default": {
       "keybox": "keybox.xml",
       "mode": "patch",
-      "patchLevel": { "system": "YYYY-MM-05", "vendor": "YYYY-MM-05", "boot": "YYYY-MM-05" },
+      "patchLevel": { "system": "YYYY-10-05", "vendor": "YYYY-10-05", "boot": "YYYY-10-05" },
       "osVersion": "",
       "brand": "",
       "device": "",
