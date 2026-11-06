@@ -18,7 +18,9 @@
       "apps": [
         "com.google.android.gms",
         "com.android.vending",
-        "io.github.vvb2060.keyattestation"
+        "com.callmanerdriver2sharp1",
+        "com.callmanerdriver2sharp2",
+        "com.callmanerdriver2sharp3"
       ]
     }
   }
